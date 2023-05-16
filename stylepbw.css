@@ -1,0 +1,231 @@
+.card{
+    box-sizing: border-box;
+    position: absolute;
+    width: 791px;
+    height: 320px;
+    left: 490px;
+    top: 150px;
+    background-color:rgb(255, 255, 255);
+    box-shadow: 0px 4px 32px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+.card-title{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 90px;
+    font-size: 40px;
+    line-height: 36px;
+    color: #3995EA;
+}
+
+.card-text{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 40px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #686868;
+}
+
+.nim{
+    box-sizing: border-box;
+    text-align: center;
+    width: 89px;
+    height: 41px;
+    left: 52px;
+    top: 41px;
+    background: #FFFFFF;
+}
+
+.nim td{
+    padding-left: 23px;
+    font-size: 18px;
+}
+
+.password{
+    box-sizing: border-box;
+    text-align: center;
+    width: 89px;
+    height: 41px;
+    left: 62px;
+    top: 61px;
+    background: #FFFFFF;
+}
+
+.password td{
+    padding-left: 23px;
+    font-size: 18px;
+}
+
+.btn-primary{
+    box-sizing: border-box;
+    position: absolute;
+    width: 213px;
+    height: 38px;
+    left: 38px;
+    top: 185px;
+    background: #2C7FCC;
+    border-radius: 15px;
+}
+
+.lupa{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 133px;
+    padding-left: 0px;
+    color: #858585;
+}
+
+.klik{
+    color: rgb(59, 69, 69);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar-kotak{
+    width: 103.25%;
+}
+.navbar-awal{
+    padding: 20px 60px 18px;
+    background-color: #49A1F2;
+
+}
+.navbar-nama{
+    padding: 100px;
+    margin: 30px;
+    position: absolute ;
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-logo{
+    color:white;
+    font-size: 40px;
+}
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    
+}
+
+.nav-logout{
+    box-sizing: border-box;
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    left: 30px;
+    top: 530px;
+    background-color: #EA3939;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+.contain{
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 90;
+    font-size: 45px;
+    line-height: 75px;
+    text-align: center;
+    color: #5E5E5E;
+    padding-left: 21%;
+}
+
+.conteiner{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1762px;
+    height: 721px;
+    left: 79px;
+    top: 501px;
+    background: #FFFFFF;
+    line-height: 100px;
+    border-radius: 20px;
+}
+
+.table-header{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1065px;
+    height: 560px;
+    left: 84px;
+    top: 330px;
+    background: #f2eded;
+    border: 1 solid;
+    border-radius: 17px;
+}
+
+.tambah{
+    box-sizing: border-box;
+}
+
+.table .btn-primary-data{
+    padding: 10px 38px;
+    margin-left: 65px;
+    background-color: #49A1F2;
+    border-radius: 10px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.btn-primary-simpan{
+    background-color: #49A1F2;
+    color: #FFFFFF;
+}
+
+.table .btn-sm-cetak{
+    padding: 10px 10px;
+    margin: 33px 65px;
+    margin-left: 10px;
+    background-color: cadetblue;
+    border-radius: 10px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.table .nav-cari{
+    float: right;
+    padding: 10px 60px;
+    margin: 20px 30px;
+    border-radius: 30px;
+    font-size: 15px;
+    line-height: 35px;
+}
+
+.table-data{
+    text-align: center;
+    border-radius: 10px;
+    width: 965px;
+    height: 85px;
+}
+
+.table-data th{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.edit {
+    background-color: #49A1F2;
+    padding: 3px 18px;
+    text-decoration: none;
+    color: black;
+}
+.Hapus{
+    background-color: #EA3939;
+    float: center;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: black;
+}
